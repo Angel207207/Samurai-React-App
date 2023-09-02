@@ -1,0 +1,17 @@
+.profile {
+    grid-area: c;
+    background-color: springgreen;
+}
+
+.profile img {
+    width: 800px;
+    height: 500px;
+}
+
+.item {
+    color: red
+}
+
+.posts {
+
+};
